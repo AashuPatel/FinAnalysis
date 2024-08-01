@@ -5,7 +5,7 @@
 Detailed analysis covering all relevant aspects of the healthcare 
 center's finance and the performance of healthcare 
 providers. <br/>
-Dashboard is interactive and user-friendly. Also Present the data in a clear and concise manner
+Dashboard is interactive and user-friendly, present the data in a clear and concise manner
 
 
 ## Key Metrics
