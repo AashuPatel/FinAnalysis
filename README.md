@@ -2,7 +2,7 @@
 ## Overview
 This project provides a comprehensive financial analysis of a healthcare system, focusing on various aspects such as billing amounts, medication costs, treatment costs, insurance costs, room charges, and out-of-pocket expenses. The analysis includes visualizations and insights into total billing amounts by city, procedure, department, and diagnosis and service type.
 
-Key Metrics
+## Key Metrics
 Billing Amount: £3M
 Average Billing Amount Per Visit: £674.86
 Medication Cost: £546K
@@ -15,7 +15,8 @@ Room Charges: £180K
 Average Room Charge: £36.12
 Out-Of-Pocket: £1.13M
 Average Out-Of-Pocket: £227.26
-Visualizations
+
+## Visualizations
 1. Total Billing Amount by City
 A map visualization showing the total billing amounts across various cities in the United Kingdom. Cities include Glasgow, Edinburgh, Leeds, Manchester, Birmingham, London, and others.
 
