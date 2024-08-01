@@ -2,11 +2,10 @@
 
 ## Overview
 
--Detailed Analysis: Ensure the analysis is thorough and 
-detailed, covering all relevant aspects of the healthcare 
+Detailed analysis covering all relevant aspects of the healthcare 
 center's finance and the performance of healthcare 
-providers. 
--Dashboard Creation: Use appropriate visualizations to effectively communicate the findings. Ensure the dashboard is interactive and user-friendly. Also Present the data in a clear and concise manner
+providers. --
+Dashboard is interactive and user-friendly. Also Present the data in a clear and concise manner
 
 
 ## Key Metrics
