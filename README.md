@@ -1,5 +1,5 @@
 # FinAnalysis
-Overview
+## Overview
 This project provides a comprehensive financial analysis of a healthcare system, focusing on various aspects such as billing amounts, medication costs, treatment costs, insurance costs, room charges, and out-of-pocket expenses. The analysis includes visualizations and insights into total billing amounts by city, procedure, department, and diagnosis and service type.
 
 Key Metrics
