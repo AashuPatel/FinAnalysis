@@ -1,4 +1,5 @@
 # Finance Analysis : Healthcare
+![Finance Analysis : Healthcare](Dashboard.png)
 
 ## Overview
 
@@ -24,7 +25,7 @@ Dashboard is interactive and user-friendly, present the data in a clear and conc
   - **Average Out-Of-Pocket:** £227.26
 
 ## Visualizations
-![Health Finance Analysis](Dashboard.png)
+
 
 ### 1. Total Billing Amount by City
 
