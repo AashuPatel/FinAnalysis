@@ -29,11 +29,11 @@ Dashboard is interactive and user-friendly, present the data in a clear and conc
 
 ### 1. Total Billing Amount by City
 
-A map visualization showing the total billing amounts across various cities in the United Kingdom. Cities include Glasgow, Edinburgh, Leeds, Manchester, Birmingham, London, and others.
+Map visualization showing the total billing amounts across various cities in the United Kingdom. Cities include Glasgow, Edinburgh, Leeds, Manchester, Birmingham, London, and others.
 
 ### 2. Total Billing Amount by Procedure
 
-A bar chart displaying the total billing amounts for different medical procedures:
+Bar chart displaying the total billing amounts for different medical procedures:
 - X-Ray: £10,53,529 (31.39%)
 - CT Scan: £8,05,508 (24.00%)
 - MRI Scan: £6,00,739 (17.90%)
@@ -42,7 +42,7 @@ A bar chart displaying the total billing amounts for different medical procedure
 
 ### 3. Total Billing Amount by Department
 
-A bar chart showing the total billing amounts by different hospital departments:
+Bar chart showing the total billing amounts by different hospital departments:
 - Cardiology: £8,46,925 (25.2%)
 - Orthopedics: £8,13,253 (24.2%)
 - General Surgery: £7,83,247 (23.3%)
@@ -51,5 +51,5 @@ A bar chart showing the total billing amounts by different hospital departments:
 
 ### 4. Total Billing Amount by Diagnosis and Service Type
 
-A stacked bar chart illustrating the billing amounts by diagnosis (Hypertension, Appendicitis, Asthma, Fracture, Migraine) and service type (Emergency, Inpatient, Outpatient).
+Stacked bar chart illustrating the billing amounts by diagnosis (Hypertension, Appendicitis, Asthma, Fracture, Migraine) and service type (Emergency, Inpatient, Outpatient).
 
