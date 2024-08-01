@@ -1,8 +1,13 @@
-# Health Finance Analysis
+# Finance Analysis : Healthcare
 
 ## Overview
 
-This project provides a comprehensive financial analysis of a healthcare system, focusing on various aspects such as billing amounts, medication costs, treatment costs, insurance costs, room charges, and out-of-pocket expenses. The analysis includes visualizations and insights into total billing amounts by city, procedure, department, and diagnosis and service type.
+-Detailed Analysis: Ensure the analysis is thorough and 
+detailed, covering all relevant aspects of the healthcare 
+center's finance and the performance of healthcare 
+providers. 
+-Dashboard Creation: Use appropriate visualizations to effectively communicate the findings. Ensure the dashboard is interactive and user-friendly. Also Present the data in a clear and concise manner
+
 
 ## Key Metrics
 
